@@ -5,7 +5,7 @@
 * [作业1-关系图](https://antonioo-c.github.io/relation_shuihu.html)
 ## 2. 作业2
 集合了百度、谷歌、必应三者的搜索网站，在输入框中输入内容后点击搜索按钮可以跳转至对应搜索引擎的搜索结果页面，使用了bootstrap和css进行页面的设计。
-* [作业2链接](https://antonioo-c.github.io/searchit.html)  
+* [作业2链接](https://antonioo-c.github.io/searchit.html)    
 ## 3. 作业3
 该网页介绍了一项生物学的研究进展（使用基因编辑技术制造免疫脚鼻疾病的猪），使用了bootstrap和css进行页面的排版和设计，部分图片来自网络（已标明出处）。该网页由本人独立完成。
 * [作业3链接](https://antonioo-c.github.io/mywork.html)  
